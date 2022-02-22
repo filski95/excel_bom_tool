@@ -1,15 +1,12 @@
-from tkinter import W
 import warnings
-from datetime import datetime
-
-from numpy import sort
-from exceptions import IncorrectLayout
-import openpyxl as xl
-import regex as re
 from collections import defaultdict
+
+import openpyxl as xl
 import pandas as pd
+import regex as re
 
 from bom import Litze
+from exceptions import IncorrectLayout
 
 # * get rid of the warnings for excel's not supported functionaltiy by openpyxl.
 warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")

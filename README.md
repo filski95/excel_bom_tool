@@ -19,5 +19,5 @@ Litzentemporäranker 0,6"
 Lfr 12,5m, Üli 1m, Üre 0m![image](https://user-images.githubusercontent.com/93283105/175822326-bc12fe19-c9fc-4703-be5d-ba829ba760de.png)
 
 
-After that, materials are being counted based on the BOM dictionary in the tool.
+After that, materials are being counted based on the BOM dictionary in the tool. And returned in a neatly formated excel.
 

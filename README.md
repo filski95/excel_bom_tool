@@ -2,7 +2,7 @@
 python tool counting consumption of materials for different anchors.
 
 -----
-production was provided with an excel extract from german system with specific anchors. Sales team was meant to receive quick feedback if it is possible to produce given amount within a certain time frame. 
+production was provided with an excel extract from the german system with specific anchors. Sales team was meant to receive quick feedback if it is possible to produce given amount within a certain time frame. 
 
 Due to the system constraints each anchor had to be checked manually (bill of material) before production could be 100% sure that materials are available.
 In was very frequent to have about 20-30 different anchors in each quote, manual checkes were very time consuming and prone to errors.
